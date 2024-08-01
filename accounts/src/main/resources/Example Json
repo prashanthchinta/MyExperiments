@@ -1,0 +1,10 @@
+{
+	"accountNumber":"11122333",
+    "accountType":"Savings",
+    "addressDto":{
+        "street":"10-16",
+        "district":"sircilla",
+        "country":"India",
+        "pincode":"505404"
+    }
+}
